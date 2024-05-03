@@ -1,0 +1,31 @@
+.bgimg{
+    
+    background-color: wheat;
+    border: 2px solid brown ;
+    padding: 100px 10px;
+    margin: 100px 100px 10px 100px;
+}
+.color{
+    color:rgb(3, 0, 1);
+    font-style: italic;
+    font-size: 15px;
+    font-weight: 600px;
+}
+.center{
+    text-align: center;
+}
+.align{
+    text-align: center;
+}
+body{
+    background-image:url(image/bg-img.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Just{
+    color: white;
+}
+.name{
+    
+}
