@@ -1,9 +1,11 @@
 .bgimg{
     
     background-color: wheat;
-    border: 2px solid brown ;
-    padding: 100px 10px;
-    margin: 100px 100px 10px 100px;
+    border: 10px solid brown ;
+    border-style: groove;
+    border-radius: 25%;
+    margin: 25px 590px 0px 570px;
+    padding: 100px 460px 100px 100px;
 }
 .color{
     color:rgb(3, 0, 1);
@@ -11,12 +13,10 @@
     font-size: 15px;
     font-weight: 600px;
 }
-.center{
+/* .center{
     text-align: center;
-}
-.align{
-    text-align: center;
-}
+} */
+
 body{
     background-image:url(image/bg-img.jpg);
     background-position: center;
@@ -24,8 +24,9 @@ body{
     background-size: cover;
 }
 .Just{
-    color: white;
+    color: rgb(250, 248, 248);
 }
 .name{
-    
+    color: rgb(13, 240, 134);
+    font-size: 25px;
 }
