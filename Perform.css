@@ -4,8 +4,10 @@
     border: 10px solid brown ;
     border-style: groove;
     border-radius: 25%;
-    margin: 25px 590px 0px 570px;
-    padding: 100px 460px 100px 100px;
+    margin: 25px 63px 0px 350px;
+    padding: 50px 50px 50px 50px;
+    width: 500px;
+    
 }
 .color{
     color:rgb(3, 0, 1);
@@ -29,4 +31,9 @@ body{
 .name{
     color: rgb(13, 240, 134);
     font-size: 25px;
+}
+.form{
+  text-align: center;
+}.table{
+    text-align: center;
 }
